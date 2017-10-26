@@ -1,0 +1,27 @@
+Este sketch contiene el código para un proyecto de prueba del sensor de infrarrojos
+en arduino. Puedes encontrar más información y documentación en español en los
+siguientes enlaces:
+
+Vídeo explicativo:
+https://www.youtube.com/watch?v=GF2pntymVbU&feature=youtu.be
+Documentación general:
+http://elfreneticoinformatico.com/sensor-de-infrarrojos-con-arduino/
+
+Para el correcto funcionamiento es necesario importar la librería especificada
+en el código
+
+Para cualquier consulta o contacto:
+http://elfreneticoinformatico.com/contacto/
+
+This sketch contains the code for an infrared sensor in arduino. You can find more
+info and documentation in spanish at the following links:
+
+Short example explained vídeo:
+https://www.youtube.com/watch?v=GF2pntymVbU&feature=youtu.be
+General documentation and presentation of proyect:
+http://elfreneticoinformatico.com/sensor-de-infrarrojos-con-arduino/
+
+For correct operation it is necessary to import the specified library in the code
+
+For any question or contact with the author:
+http://elfreneticoinformatico.com/contacto/
